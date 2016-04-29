@@ -1,0 +1,7 @@
+# smart-contract-renting
+Blockchain app for equipment temporal renting involving multiple parties
+
+## Install and run
+sudo npm install -g inoic cordova bower
+bower install
+ionic serve
